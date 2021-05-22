@@ -7,8 +7,8 @@ module.exports = (recepient, token) => {
           service:'Gmail',
     
         auth : {
-        user:"sukhpawan410@gmail.com",
-        pass: "pawansukh345"
+        user:"xxxxxx@gmail.com",
+        pass: "xxxx"
       }
     
     })
